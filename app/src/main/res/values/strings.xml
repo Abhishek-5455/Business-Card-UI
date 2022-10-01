@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Abhishek Rathod</string>
+    <string name="about">Native Android Developer</string>
+    <string name="phone">+91 9860328375</string>
+    <string name="mail">abhishekrathod5455@gmail.com</string>
+    <string name="share">androidDev/Abhishek</string>
+    <string name="profile">Profile</string>
+</resources>
